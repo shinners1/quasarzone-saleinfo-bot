@@ -1,4 +1,6 @@
 # Quasarzone sale info board alarm
++ 퀘이사존(https://quasarzone.com)의 할인 정보 게시판 새 글 알림입니다.
++ 게시판 주소: https://quasarzone.com/bbs/qb_saleinfo
 
 ### Install Dependency
 ```shell
