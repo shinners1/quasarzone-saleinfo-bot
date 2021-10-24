@@ -12,9 +12,9 @@ python3 -m pip install -r requirements.txt
 python3 check_saleinfo_board.py
 ```
 
-### CONFIGCancel changes
-+ configure your crawler before you run the script
-+ check_saleinfo_board.py, line:81-84
+### Configuration
+사용 전에 **check_saleinfo_board.py, line:81-84** 텔레그램 봇 정보와 알림 간격을 설정해주세요.  
+  
 ```python
 CHECK_INTERVAL_MIN = 10
 
