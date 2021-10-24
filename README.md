@@ -1,5 +1,5 @@
 # Quasarzone sale info board alarm
-[퀘이사존](https://quasarzone.com) [할인 정보 게시판](https://quasarzone.com/bbs/qb_saleinfo) 새 글 알림입니다.  
+[퀘이사존 지름/할인정보 게시판](https://quasarzone.com/bbs/qb_saleinfo) 새 글 알림입니다.  
 
 ### Install Dependency
 ```shell
