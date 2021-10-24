@@ -13,7 +13,7 @@ python3 check_saleinfo_board.py
 ```
 
 ### Configuration
-사용 전에 **check_saleinfo_board.py, line:81-84** 텔레그램 봇 정보와 알림 간격을 설정해주세요.  
+사용 전에 **check_saleinfo_board.py, line:81-84**에서 알람을 전송할 텔레그램의 id와 token을 입력하고 알림 주기를 설정해주세요.  
   
 ```python
 CHECK_INTERVAL_MIN = 10
